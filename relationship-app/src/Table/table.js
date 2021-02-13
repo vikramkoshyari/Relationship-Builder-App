@@ -73,7 +73,7 @@ class T extends Component {
                 {
                   editable ?
                     <span>
-                      <a onClick={() => this.save(record.id)} style={{marginRight:8,}}>Save</a>
+                      <a onClick={() => this.save(record.id)} style={{marginRight: 8,}}>Save</a>
                       <Popconfirm title="Sure to cancel?" onConfirm={() => this.cancel(record.id)}>
                         <a>Cancel</a>
                       </Popconfirm>
