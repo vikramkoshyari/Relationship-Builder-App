@@ -1,0 +1,19 @@
+.degree{
+    margin-top:2rem;
+    padding-top:2rem;
+}
+.output_container{
+    margin-top:20px;
+}
+
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height:100vh;   */
+}
+
+.form{
+    margin-top:3rem;
+}
